@@ -31,6 +31,6 @@
 
 ## 📸 Galeria
 
-![Cidade Roxa](https://raw.githubusercontent.com/Suyane26/Suyane26/main/black-and-purple-background-y5t5f8cimp63vllx_2.jpg)
+![Cidade Roxa]([https://raw.githubusercontent.com/Suyane26/Suyane26/main/black-and-purple-background-y5t5f8cimp63vllx_2.jpg](https://1drv.ms/i/c/96cf3c751e7af233/IQAu2uhsBB7MQZP6fIvr-xM3Aft_z1DG1M9zmT8fQjCqn2s?e=63elbx))
 
 </div>
