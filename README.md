@@ -1,15 +1,18 @@
 <table>
   <tr>
+    <!-- COLUNA DA ESQUERDA: IMAGEM DA CIDADE ROXA -->
     <td valign="top" width="40%">
-      <img src="https://i.ibb.co/Y7XvHQpX/black-and-purple-background-y5t5f8cimp63vllx-2.jpg" alt="Cidade Roxa" width="100%"/>
+      <img src="https://raw.githubusercontent.com/Suyane26/Suyane26/main/black-and-purple-background-y5t5f8cimp63vllx_2.jpg" alt="Cidade Roxa" width="100%" onerror="this.src='https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop'"/>
     </td>
     
+    <!-- COLUNA DA DIREITA: SEUS DADOS -->
     <td valign="top" width="60%">
       <h1>Suyane Costa 👩‍💻</h1>
       <hr>
       <p>🚀 Análise e Desenvolvimento de Sistemas - UNIFOR.</p>
       <p>🛠️ Buscando constantemente aplicar a lógica na resolução de problemas reais.</p>
       <br>
+      <!-- SEU BOTÃO DO LINKEDIN -->
       <a href="https://www.linkedin.com/in/suyane-costa-29a648278" target="_blank">
         <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
