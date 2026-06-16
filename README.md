@@ -1,12 +1,12 @@
 <table>
   <tr>
-    <!-- COLUNA DA ESQUERDA: SUA IMAGEM DA CIDADE -->
-    <td valign="top" width="40%">
-      <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop" alt="Cidade Roxa" width="100%"/>
+    <!-- COLUNA DA ESQUERDA: SUA IMAGEM ROXA -->
+    <td valign="top" width="45%">
+      <img src="https://i.ibb.co/Y7XvHQpX/black-and-purple-background-y5t5f8cimp63vllx-2.jpg" alt="Cidade Roxa" width="100%"/>
     </td>
     
     <!-- COLUNA DA DIREITA: SEUS DADOS -->
-    <td valign="top" width="60%">
+    <td valign="top" width="55%">
       <h1>Suyane Costa 👩‍💻</h1>
       <hr>
       <p>📚 Análise e Desenvolvimento de Sistemas - UNIFOR.</p>
